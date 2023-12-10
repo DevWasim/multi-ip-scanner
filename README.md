@@ -7,7 +7,7 @@ A simple Python script for scanning open ports on a target system. The script ut
 Make sure you have the required libraries installed:
 
 ```bash
-pip install termcolor tqdm
+pip3 install termcolor tqdm
 ```
 
 ## Usage
@@ -16,12 +16,12 @@ Run the script by executing the following command:
 
 1 For better UI and some extra Features but slow scanning speed :
 ```bash
-python slow_scanner.py
+python3 slow_scanner.py
 ```
 
 2 For super fast speed scanning speed:
 ```bash
-python fast_scanner.py
+python3 fast_scanner.py
 ```
 
 
