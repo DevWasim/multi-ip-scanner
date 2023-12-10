@@ -14,9 +14,17 @@ pip install termcolor tqdm
 
 Run the script by executing the following command:
 
+1 For better UI and some extra Features but slow scanning speed :
 ```bash
-python port_scanner.py
+python slow_scanner.py
 ```
+
+2 For super fast speed scanning speed:
+```bash
+python fast_scanner.py
+```
+
+
 
 Follow the on-screen instructions to input the target(s), the number of ports to scan, and the desired output type.
 
@@ -38,7 +46,3 @@ This tool is intended for educational purposes only. Use it responsibly and only
 ```
 
 **Note:** The ASCII art is displayed at the beginning of the execution for aesthetic purposes.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
