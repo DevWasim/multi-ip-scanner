@@ -41,22 +41,14 @@ This tool is intended for educational purposes only. Use it responsibly and only
 
 ## ASCII Art
 
-<span style="background: linear-gradient(to right, #ff0000, #00ff00, #0000ff); font-size: 24px; animation: blinker 1s linear infinite;">#   #          ##     #       #            ###   ####           ###                                            
+```
+ #   #          ##     #       #            ###   ####           ###                                            
  #   #           #     #                     #    #   #         #   #                                           
  ## ##  #   #    #    ####    ##             #    #   #         #       ###    ###   # ##   # ##    ###   # ##  
  # # #  #   #    #     #       #             #    ####           ###   #   #      #  ##  #  ##  #  #   #  ##  # 
  #   #  #   #    #     #       #             #    #                 #  #       ####  #   #  #   #  #####  #     
  #   #  #  ##    #     #  #    #             #    #             #   #  #   #  #   |  #   |  |   |  #      %
- #   #   ## #   ###     ##    ###           ###   #              ###    ###    ####  #   #  #   #   ###   #                  
-</span>
-
-<style>
-    @keyframes blinker {
-        50% {
-            opacity: 0;
-        }
-    }
-</style>
-
+ #   #   ## #   ###     ##    ###           ###   #              ###    ###    ####  #   #  #   #   ###   #                                by wasim khan
+```
 
 **Note:** The ASCII art is displayed at the beginning of the execution for aesthetic purposes.
