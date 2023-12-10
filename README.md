@@ -1,58 +1,44 @@
-<!DOCTYPE html>
-<html lang="en">
+# Port Scanner
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Port Scanner</title>
-    <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            margin: 20px;
-        }
+A simple Python script for scanning open ports on a target system. The script utilizes the `socket` library for establishing connections, `termcolor` for colorful console output, and `tqdm` for a progress bar. Additionally, an ASCII art representation of a port scanner is printed at the beginning.
 
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 5px;
-            overflow-x: auto;
-        }
-    </style>
-</head>
+## Prerequisites
 
-<body>
+Make sure you have the required libraries installed:
 
-    <h1>Port Scanner</h1>
-    <p>A simple Python script for scanning open ports on a target system. The script utilizes the <code>socket</code> library for establishing connections, <code>termcolor</code> for colorful console output, and <code>tqdm</code> for a progress bar. Additionally, an ASCII art representation of a port scanner is printed at the beginning.</p>
+```bash
+pip install termcolor tqdm
+```
 
-    <h2>Prerequisites</h2>
-    <p>Make sure you have the required libraries installed:</p>
-    <pre>pip install termcolor tqdm</pre>
+## Usage
 
-    <h2>Usage</h2>
-    <p>Run the script by executing the following command:</p>
-    <pre>python port_scanner.py</pre>
-    <p>Follow the on-screen instructions to input the target(s), the number of ports to scan, and the desired output type.</p>
+Run the script by executing the following command:
 
-    <h2>Features</h2>
-    <ul>
-        <li>Scans specified ports on the target system.</li>
-        <li>Displays the state (open/closed) and service/version information for each scanned port.</li>
-        <li>Supports scanning multiple targets separated by commas.</li>
-        <li>Allows the user to choose between scanning all open and closed ports or only open ports.</li>
-    </ul>
+```bash
+python port_scanner.py
+```
 
-    <h2>Disclaimer</h2>
-    <p>This tool is intended for educational purposes only. Use it responsibly and only on systems you have explicit permission to scan.</p>
+Follow the on-screen instructions to input the target(s), the number of ports to scan, and the desired output type.
 
-    <h2>ASCII Art</h2>
-    <pre>&lt;ASCII art here&gt;</pre>
+## Features
 
-    <p><strong>Note:</strong> The ASCII art is displayed at the beginning of the execution for aesthetic purposes.</p>
+- Scans specified ports on the target system.
+- Displays the state (open/closed) and service/version information for each scanned port.
+- Supports scanning multiple targets separated by commas.
+- Allows the user to choose between scanning all open and closed ports or only open ports.
 
-    <h2>License</h2>
-    <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
+## Disclaimer
 
-</body>
+This tool is intended for educational purposes only. Use it responsibly and only on systems you have explicit permission to scan.
 
-</html>
+## ASCII Art
+
+```
+<ASCII art here>
+```
+
+**Note:** The ASCII art is displayed at the beginning of the execution for aesthetic purposes.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
