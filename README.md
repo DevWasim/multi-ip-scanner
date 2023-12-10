@@ -42,7 +42,13 @@ This tool is intended for educational purposes only. Use it responsibly and only
 ## ASCII Art
 
 ```
-<ASCII art here>
+ #   #          ##     #       #            ###   ####           ###                                            
+ #   #           #     #                     #    #   #         #   #                                           
+ ## ##  #   #    #    ####    ##             #    #   #         #       ###    ###   # ##   # ##    ###   # ##  
+ # # #  #   #    #     #       #             #    ####           ###   #   #      #  ##  #  ##  #  #   #  ##  # 
+ #   #  #   #    #     #       #             #    #                 #  #       ####  #   #  #   #  #####  #     
+ #   #  #  ##    #     #  #    #             #    #             #   #  #   #  #   |  #   |  |   |  #      %
+ #   #   ## #   ###     ##    ###           ###   #              ###    ###    ####  #   #  #   #   ###   #  
 ```
 
 **Note:** The ASCII art is displayed at the beginning of the execution for aesthetic purposes.
