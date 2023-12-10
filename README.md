@@ -48,7 +48,7 @@ This tool is intended for educational purposes only. Use it responsibly and only
  # # #  #   #    #     #       #             #    ####           ###   #   #      #  ##  #  ##  #  #   #  ##  # 
  #   #  #   #    #     #       #             #    #                 #  #       ####  #   #  #   #  #####  #     
  #   #  #  ##    #     #  #    #             #    #             #   #  #   #  #   |  #   |  |   |  #      %
- #   #   ## #   ###     ##    ###           ###   #              ###    ###    ####  #   #  #   #   ###   #        by wasim khan
+ #   #   ## #   ###     ##    ###           ###   #              ###    ###    ####  #   #  #   #   ###   #    by wasim khan
 ```
 
 **Note:** The ASCII art is displayed at the beginning of the execution for aesthetic purposes.
