@@ -52,3 +52,12 @@ This tool is intended for educational purposes only. Use it responsibly and only
 ```
 
 **Note:** The ASCII art is displayed at the beginning of the execution for aesthetic purposes.
+
+---
+
+## 🌱 Empower dedication with your generosity
+#### Every single coffee boosts towards greater motivation, turning compassion into action. Show your kind support with just a little click! 😃
+
+<a href="https://www.buymeacoffee.com/developerwasim" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+
